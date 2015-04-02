@@ -1,0 +1,10 @@
+{
+	"name": "altiviaot-web2",
+	"private": "true",
+	"devDependencies": {
+		"jquery": "lastest",
+		"bootstrap": "lastest",
+		"angular": "lastest",
+		"fontawesome": "lastest"
+	}
+}
